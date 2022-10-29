@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #111111;
+}
+.katta-rang{
+    width: 440px;
+    height: 625px;
+    background-color: #FFB400;
+    position: absolute;
+    margin: 0 auto;
+    margin-top: -8px;
+    margin-left: -190px;
+    padding-bottom: 170px;
+    transform: rotate(-16deg);
+}
+
+.rasm {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-image: url("img-mobile.fdf36938a886019a0f27.jpg");
+    z-index: 10;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 20px;
+    border: solid 1px black;
+}
+
+.sariq {
+    margin-left: 700px;
+    color: #FFB400;
+    font-family: sans-serif;
+    font-size: 47px;
+    margin-top: 170px;
+    position: absolute;
+}
+
+.chiziq{
+    width: 45px;
+    height: 4px;
+    background-color: #FFB400;
+    position: absolute;
+    border-radius: 2px;
+    margin-left: 620px;
+    margin-top: 190px;
+}
+
+.yozuv{
+    position: absolute;
+    color: #FFf;
+    margin-left: 700px;
+    margin-top: 230px;
+    font-family: sans-serif;
+    font-size: 47px;
+}
+
+.matn h3 {
+    color: #FFF;
+    font-family: sans-serif;
+    position: absolute;
+    font-weight: 400;
+    margin-left: 620px;
+    margin-top: 300px;
+}
+
+.tugma {
+    height: 50px;
+    width: 260px;
+    background-color: #111111;
+    color: white;
+    border-radius: 50px;
+    border: solid 1px #FFB400;
+    font-family: sans-serif;
+    position: absolute;
+    align-items: center;
+    margin-left: 620px;
+    margin-top: 365px;
+}
+
+.tugma h3{
+    font-size: 18px;
+    margin-left: -29px;
+}
+
+.aylana {
+    width: 50px;
+    height: 50px;
+    background-color: #FFB400;
+    position: absolute;
+    margin-left: 830px;
+    margin-top: 365px;
+    border-radius: 100%;
+}
+.aylana svg {
+    width: 25px;
+    margin-left: 12px;
+    position: absolute;
+}
+.tugma:hover {
+    background-color: #FFB400;
+    transition: 0.3s;
+}
+
+.home {
+    width: 50px;
+    height: 50px;
+    background-color: #FFB400;
+    border-radius: 100%;
+    margin-left: 1280px;
+    margin-top: 77px;
+}
+
+.home svg{
+    width: 25px;
+    margin-left: 13px;
+    position: absolute;
+}
+
+.user{
+    width: 50px;
+    height: 50px;
+    background-color: #2B2A2A;
+    border-radius: 100%;
+    margin-left: 1280px;
+    margin-top: 27px;
+}
+
+.user svg{
+    width: 25px;
+    margin-left: 13px;
+    position: absolute;
+}
+
+.sumka {
+    width: 50px;
+    height: 50px;
+    background-color: #2B2A2A;
+    border-radius: 100%;
+    margin-left: 1280px;
+    margin-top: 20px;
+}
+.sumka svg {
+    width: 25px;
+    margin-left: 13px;
+    position: absolute;
+}
+
+.email {
+    width: 50px;
+    height: 50px;
+    background-color: #2B2A2A;
+    border-radius: 100%;
+    margin-left: 1280px;
+    margin-top: 20px;
+}
+
+.email svg{
+    width: 25px;
+    margin-left: 13px;
+    position: absolute;
+}
+
+.comment{
+    width: 50px;
+    height: 50px;
+    background-color: #2B2A2A;
+    border-radius: 100%;
+    margin-left: 1280px;
+    margin-top: 20px;
+}
+
+.comment svg {
+    width: 25px;
+    margin-left: 13px;
+    position: absolute;
+}
